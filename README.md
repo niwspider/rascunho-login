@@ -1,12 +1,13 @@
 <!-- Início da seção de introdução -->
 <h1>🚀 Lista de Tarefas (To-do list) &lt;Primeiro Código&gt; 📝</h1>
-<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar usuários, armazenar dados locais, fazer login e gestão de tarefas. O projeto foi criado como trabalho final da disciplina de <b>Front-End Dinâmico</b> do curso de Desenvolvimento Web Front-End &lt;Primeiro Código&gt;.</p> 
+<p>Este repositório consiste no desenvolvimento de uma aplicação web capaz de registrar usuários, armazenar dados locais, fazer login e gerenciar de tarefas. O projeto foi criado como trabalho final da disciplina de <b>Front-End Dinâmico</b> do curso de Desenvolvimento Web Front-End &lt;Primeiro Código&gt;.</p> 
 <!-- Fim da seção de introdução -->
 
 
 <!-- Início da seção de demonstração -->
 <h2>🎥 Demonstração: </h2>
-<a href=""><img src="https://i.postimg.cc/sXmTDqd2/Miniatura-Formulario-Java-Script.png" target="_blank"> </a>
+<a href=""><img src="https://i.postimg.cc/XqtQ3ZK3/login-todo.png" width="500" height="500" alt="Imagem do login" ></a>
+<a href=""><img src="https://i.postimg.cc/yxzYgjyb/todo-list.png" width="500" height="400" alt="Imagem das tarefas" ></a>
 <!-- Fim da seção de demonstração -->
 
 
